@@ -80,4 +80,4 @@ The target audience for my portfolio, would include employers seeking web develo
 <br>
 
 ## Tech Stack
-I have used HTML and CSS in the process of developing my portfolio.
+I have used HTML and CSS in the process of developing my portfolio and netlify to deploy my website.
