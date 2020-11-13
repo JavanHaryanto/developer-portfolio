@@ -33,6 +33,9 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 
 ## Sitemap
 
+![Portfolio Sitemap](images/developer-portfolio-flowchart.png)
+
+
 ## Screenshots
 ## Target Audience
 ## Tech Stack
