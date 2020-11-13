@@ -10,6 +10,8 @@ The purpose of my developer portfolio is to help me form a strong online presenc
 <br>
 
 ## Functionality/Features
+<br>
+
 ### Design
 My portfolio is based on the idea that all the information regarding myself and my work is easy to find and understand. I have taken the minimalism approach, using a basic contrasting colour scheme, a maximum of 3 fonts and not adding elements or animations that don't serve a purpose.
 <br>
@@ -30,12 +32,52 @@ In the footer of my portfolio, I have social icons and links to my main social a
 On the landing page and about me page, I have incorporated a button where people can download my resume easily.
 Enabling my audience to quickly get a look into my past work and if I'm a good fit for what them.
 <br>
+<br>
+
 
 ## Sitemap
+<br>
 
 ![Portfolio Sitemap](images/developer-portfolio-flowchart.png)
-
+<br>
+<br>
+<br>
 
 ## Screenshots
+### Desktop Mockups
+<br>
+
+<img src="images/desktop-home.png" alt="desktop-home" width="49%"/>
+<img src="images/desktop-about.png" alt="desktop-about" width="49%"/>
+<img src="images/desktop-blog.png" alt="desktop-blog" width="49%"/>
+<img src="images/desktop-services.png" alt="desktop-services" width="49%"/>
+
+<br>
+<br>
+
+### Tablet Mockups
+<br>
+
+<img src="images/tablet-home.png" alt="tablet-home" width="49%"/>
+<img src="images/tablet-about.png" alt="tablet-about" width="49%"/>
+<img src="images/tablet-blog.png" alt="tablet-blog" width="49%"/>
+<img src="images/tablet-services.png" alt="tablet-services" width="49%"/>
+<br>
+<br>
+
+### Mobile Mockups
+<br>
+
+<img src="images/mobile-home.png" alt="mobile-home" width="49%"/>
+<img src="images/mobile-about.png" alt="mobile-about" width="49%"/>
+<img src="images/mobile-blog.png" alt="mobile-blog" width="49%"/>
+<img src="images/mobile-services.png" alt="mobile-services" width="49%"/>
+<br>
+<br>
+
 ## Target Audience
+The target audience for my portfolio, would include employers seeking web developers, and other developers within the tech community. Due to the minimal yet modern design choices I've utilised, I believe my portfolio would attract and be suitable for most, if not all age groups.
+<br>
+
 ## Tech Stack
+I have used HTML and CSS in the process of developing my portfolio.
