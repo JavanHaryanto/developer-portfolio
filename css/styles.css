@@ -21,7 +21,7 @@ nav {
 	display: flex;
 	justify-content: space-between;
 	align-items:center;
-	height:60px;
+	height:100px;
 	background-color: e3fdfd;
 	box-shadow:2px 2px 12px rgba(0,0,0,0.2);
 	padding:0px 5%;
@@ -44,7 +44,10 @@ nav ul li a{
 .logo{
 	font-family:poppins;
 	color:#000000;
-	font-size: 22px;
+    font-size: 22px;
+}
+.logo img{
+    width: 50%;
 }
 .active{
 	color:71c9ce;

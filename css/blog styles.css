@@ -152,3 +152,22 @@ body{
 }
 
 }
+/* BLOG ARTICLE PAGE */
+
+.blog-article{
+    padding: 5rem;
+}
+.blog-content-header{
+    display: flex;
+    flex-direction:column;
+    justify-content: left;
+    align-items: left;
+    }
+.blog-content{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:center;
+}
+
+
