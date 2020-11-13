@@ -34,6 +34,12 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 <br>
 <br>
 
+## Target Audience
+The target audience for my portfolio, would include employers seeking web developers, and other developers within the tech community. Due to the minimal yet modern design choices I've utilised, I believe my portfolio would attract and be suitable for most, if not all age groups.
+<br>
+
+## Tech Stack
+I have used HTML and CSS in the process of developing my portfolio and netlify to deploy my website.
 
 ## Sitemap
 <br>
@@ -86,9 +92,3 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 <br>
 <br>
 
-## Target Audience
-The target audience for my portfolio, would include employers seeking web developers, and other developers within the tech community. Due to the minimal yet modern design choices I've utilised, I believe my portfolio would attract and be suitable for most, if not all age groups.
-<br>
-
-## Tech Stack
-I have used HTML and CSS in the process of developing my portfolio and netlify to deploy my website.
