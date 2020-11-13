@@ -44,14 +44,17 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 <br>
 
 ## Screenshots
-### Desktop Mockups
+### Desktop Mockups/Screenshots
 <br>
 
 <img src="images/desktop-home.png" alt="desktop-home" width="49%"/>
+<img src="images/screenshots/home-desktop.png" alt="home-desktop" width="49%"/>
 <img src="images/desktop-about.png" alt="desktop-about" width="49%"/>
+<img src="images/screenshots/about-desktop.png" alt="about-desktop" width="49%"/>
 <img src="images/desktop-blog.png" alt="desktop-blog" width="49%"/>
+<img src="images/screenshots/blog-desktop.png" alt="blog-desktop" width="49%"/>
 <img src="images/desktop-services.png" alt="desktop-services" width="49%"/>
-
+<img src="images/screenshots/services-desktop.png" alt="services-desktop" width="49%"/>
 <br>
 <br>
 
@@ -59,9 +62,13 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 <br>
 
 <img src="images/tablet-home.png" alt="tablet-home" width="49%"/>
+<img src="images/screenshots/home-tablet.png" alt="home-tablet" width="49%"/>
 <img src="images/tablet-about.png" alt="tablet-about" width="49%"/>
+<img src="images/screenshots/about-tablet.png" alt="about-tablet" width="49%"/>
 <img src="images/tablet-blog.png" alt="tablet-blog" width="49%"/>
+<img src="images/screenshots/blog-tablet.png" alt="blog-tablet" width="49%"/>
 <img src="images/tablet-services.png" alt="tablet-services" width="49%"/>
+<img src="images/screenshots/services-tablet.png" alt="services-tablet" width="49%"/>
 <br>
 <br>
 
@@ -69,9 +76,13 @@ Enabling my audience to quickly get a look into my past work and if I'm a good f
 <br>
 
 <img src="images/mobile-home.png" alt="mobile-home" width="49%"/>
+<img src="images/screenshots/home-mobile.png" alt="home-mobile" width="49%"/>
 <img src="images/mobile-about.png" alt="mobile-about" width="49%"/>
+<img src="images/screenshots/about-mobile.png" alt="about-mobile" width="49%"/>
 <img src="images/mobile-blog.png" alt="mobile-blog" width="49%"/>
+<img src="images/screenshots/blog-post-mobile.png" alt="blog-mobile" width="49%"/>
 <img src="images/mobile-services.png" alt="mobile-services" width="49%"/>
+<img src="images/screenshots/services-mobile.png" alt="services-mobile" width="49%"/>
 <br>
 <br>
 

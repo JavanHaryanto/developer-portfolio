@@ -502,9 +502,9 @@ footer{
             content: '\f00d';
             position: fixed;
             right: 25px;
-            line-height: 0px;
-            
+            line-height: 0px;          
         }
+
         nav.active ul{
             display: flex !important;
         }
